@@ -1,9 +1,7 @@
 # Ignore everything in repository root 
+# (to avoid accidentally adding everything)  
 /*
 
 # Files to not ignore
 !/.gitignore
 !/README.md
-
-# Folders to not ignore
-!**/src/
