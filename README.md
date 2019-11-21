@@ -2,8 +2,18 @@ Exercises for Object Oriented Programming with Java, Part II
 Course by University of Helsinki's Department of Computer Science
 see https://mooc.fi/en/
 
-by Kyle Chatman
-kchatman.com
 
-This material is licensed under the Creative Commons BY-NC-SA license, which means that you can use it and distribute it freely so long as you do not erase the names of the original authors. If you do changes in the material and want to distribute this altered version of the material, you have to license it with a similar free license. The use of the material for commercial use is prohibited without a separate agreement.
-https://creativecommons.org/licenses/by-nc-sa/2.0/
+Copyright 2019 [Kyle Chatman](http://www.kchatman.com)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see https://www.gnu.org/licenses/
